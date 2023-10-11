@@ -9,4 +9,4 @@
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Marcu0&theme=dracula&locale=pt_BR&date_format=j%20M%5B%20Y%5D&card_width=600)](https://git.io/streak-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=Marcu0&theme=dracula&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcu0&thme=dracula)](https://github.com/anuraghazra/github-readme-stats)
