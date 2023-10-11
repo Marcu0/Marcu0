@@ -8,5 +8,5 @@
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcu0&layout=donut&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Marcu0&theme=dracula&locale=pt_BR&date_format=j%20M%5B%20Y%5D&card_width=600)](https://git.io/streak-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=Marcu0&theme=dracula&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
