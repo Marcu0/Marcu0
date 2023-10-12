@@ -4,9 +4,8 @@
 
 <div style="display: table">
   
-![GitHub Streak](https://streak-stats.demolab.com?user=Marcu0&theme=dracula&locale=pt_BR&date_format=j%20M%5B%20Y%5D&card_width=450) 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Marcus' GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcu0&layout=donut-vertical&theme=dracula)
+![GitHub Streak](https://streak-stats.demolab.com?user=Marcu0&theme=dracula&locale=pt_BR&date_format=j%20M%5B%20Y%5D&card_width=450) 
 </div>
 
 ## Linguagens que utilizo
