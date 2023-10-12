@@ -4,23 +4,7 @@
 
 <div style="display: table; margin: auto">
 
-
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcu0&layout=pie&theme=dracula)
-
-
-<ul style="list-style-type: none">
-<li>
-<a href="mailto:marcusviniciushgr@gmail.com?suject=Contratar serviços" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</li>
-<li>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</li>
-<li>
-<a href="mailto:marcusviniciushgr@outlook.com?suject=Contratar serviços" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
-</li>
-</ul>
-</div>
-
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcu0&layout=pie&theme=dracula)]()
 </div>
 
 ## Linguagens que utilizo
@@ -49,3 +33,14 @@
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 </div>
+
+##Contate-me
+<div style="display: inline-block">
+<a href="mailto:marcusviniciushgr@gmail.com?suject=Contratar serviços" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
+<a href="mailto:marcusviniciushgr@outlook.com?suject=Contratar serviços" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+
+</div>
+
