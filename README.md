@@ -2,19 +2,41 @@
 
 
 
-<div style="display: table">
-  
-![Marcus' GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcu0&layout=pie&theme=dracula)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)<br>
-![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)<br>
-![TS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)<br>
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)<br>
-![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+<div style="display: table; content: ''; clear: both; margin: auto">
+<div style="float: left">
+
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcu0&layout=pie&theme=dracula)
+</div>
+<div style="float: left">
+<ul style="list-style-type: none">
+<li>
+<a href="mailto:marcusviniciushgr@gmail.com?suject=Contratar serviços"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</li>
+<li>
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</li>
+<li>
+<a href="mailto:marcusviniciushgr@outlook.com?suject=Contratar serviços"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+</li>
+<li>ㅤ</li>
+
+<li>ㅤ</li>
+<li>ㅤ</li>
+<li>ㅤ</li>
+<li>
+<img src="https://media.tenor.com/x-O_vbIi5KQAAAAC/computer-eyes-blink.gif" style="width: 200; align: center">
+
+</li>
+</ul>
+</div>
+
+</div>
+
 ## Linguagens que utilizo
 <div style="display: inline-block; margin: auto">
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![TS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
