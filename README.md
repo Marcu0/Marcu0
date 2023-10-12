@@ -2,13 +2,13 @@
 
 
 
-<div style="display: table;">
+<div style="display: table">
   
-<div>
+<div style="float: left; width: 50%">
 
   ![Marcus' GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcu0&theme=dracula)
 </div>
-<div>
+<div style="float: left; width: 50%">
   
 ![GitHub Streak](https://streak-stats.demolab.com?user=Marcu0&theme=dracula&locale=pt_BR&date_format=j%20M%5B%20Y%5D&card_width=450)
 </div>
@@ -16,7 +16,7 @@
 </div>
 
 ## Linguagens que utilizo
-<div style="display: inline-block">
+<div style="display: inline-block; margin: auto">
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
