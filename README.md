@@ -5,21 +5,20 @@
 <div style="display: table; content: ''; clear: both; margin: auto">
 <div style="float: left">
 
-  ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcu0&layout=pie&theme=dracula)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcu0&layout=pie&theme=dracula)
 </div>
 <div style="float: left">
-  <ul style="list-style-type: none">
-    <li>
-      <a href="mailto:marcusviniciushgr@gmail.com?suject=Contratar serviços"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-    </li>
-    <li>
-      <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    </li>
-    <li>
-      <a href="mailto:marcusviniciushgr@outlook.com?suject=Contratar serviços"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-        outlook&logoColor=white">
-      </a>
-    </li>
-  </ul>
+<ul style="list-style-type: none">
+<li>
+<a href="mailto:marcusviniciushgr@gmail.com?suject=Contratar serviços" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</li>
+<li>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</li>
+<li>
+<a href="mailto:marcusviniciushgr@outlook.com?suject=Contratar serviços" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+</li>
+</ul>
 </div>
 
 </div>
