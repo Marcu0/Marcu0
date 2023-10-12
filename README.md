@@ -5,7 +5,7 @@ e novos frameworks para aprimorar cada vez mais meus conhecimen-<br>
 tos.</p>
 <div>
   <div align="center">
-  <img alt="Marcus-Readme-Streak" height="160em" src ="https://github-readme-streak-stats.herokuapp.com?user=Marcu0&theme=dracula&hide_border=true&background=FFFFFF00">
+  <img alt="Marcus-Readme-Streak" height="160em" src ="https://github-readme-streak-stats.herokuapp.com?user=Marcu0&&locale=pt_BR&theme=dracula&hide_border=true&background=FFFFFF00">
 </div>
 </div>
  <div align="center">
