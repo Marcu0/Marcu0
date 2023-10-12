@@ -2,9 +2,11 @@
 
 
 
+<div>
+  
 ![Marcus' GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcu0&theme=dracula)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Marcu0&theme=dracula&locale=pt_BR&date_format=j%20M%5B%20Y%5D&card_width=400)
+![GitHub Streak](https://streak-stats.demolab.com?user=Marcu0&theme=dracula&locale=pt_BR&date_format=j%20M%5B%20Y%5D&card_width=450)
+</div>
 
 ## Linguagens que utilizo
 <div style="display: inline-block">
