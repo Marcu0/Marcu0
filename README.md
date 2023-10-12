@@ -2,10 +2,17 @@
 
 
 
-<div style="display: table; margin: auto; width: 75% ">
+<div style="display: table;">
   
-![Marcus' GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcu0&theme=dracula)
+<div>
+
+  ![Marcus' GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcu0&theme=dracula)
+</div>
+<div>
+  
 ![GitHub Streak](https://streak-stats.demolab.com?user=Marcu0&theme=dracula&locale=pt_BR&date_format=j%20M%5B%20Y%5D&card_width=450)
+</div>
+
 </div>
 
 ## Linguagens que utilizo
