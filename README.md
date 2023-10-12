@@ -5,9 +5,11 @@
 <div style="display: table">
   
 ![Marcus' GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcu0&layout=pie&theme=dracula)
-![GitHub Streak](https://streak-stats.demolab.com?user=Marcu0&theme=dracula&locale=pt_BR&date_format=j%20M%5B%20Y%5D&card_width=450) 
-</div>
-
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ## Linguagens que utilizo
 <div style="display: inline-block; margin: auto">
 
