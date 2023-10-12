@@ -5,7 +5,9 @@
 <div style="display: table; margin: auto">
 
 <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcu0&layout=pie&theme=dracula" width="350" align="center"></a>
-Sou programador back-end
+Sou um programador back-end buscando aprender novas linguagens<br> 
+e novos frameworks para aprimorar cada vez mais meus conhecimen-<br>
+tos.
 </div>
 ## Linguagens que utilizo
 <div style="display: inline-block; margin: auto">
