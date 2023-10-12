@@ -4,8 +4,7 @@
 
 <div style="display: table; margin: auto">
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcu0&layout=pie&theme=dracula)]()
-</div>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcu0&layout=pie&theme=dracula" width="500"></a>
 
 ## Linguagens que utilizo
 <div style="display: inline-block; margin: auto">
