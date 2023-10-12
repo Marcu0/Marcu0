@@ -2,12 +2,12 @@
 
 
 
-<div style="display: table; content: ''; clear: both; margin: auto">
-<div style="float: left">
+<div style="display: table; margin: auto">
+
 
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcu0&layout=pie&theme=dracula)
-</div>
-<div style="float: left">
+
+
 <ul style="list-style-type: none">
 <li>
 <a href="mailto:marcusviniciushgr@gmail.com?suject=Contratar serviços" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
