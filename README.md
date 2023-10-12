@@ -3,7 +3,7 @@
 <p>Sou um programador back-end buscando aprender novas linguagens<br> 
 e novos frameworks para aprimorar cada vez mais meus conhecimen-<br>
 tos.</p>
-<div>
+<div style="display: flex; align-items: center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcu0&layout=compact&theme=dracula" width="305" align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Marcu0&show_icons=true&theme=dracula" width="415" align="center">
 </div>
