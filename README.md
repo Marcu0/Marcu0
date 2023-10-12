@@ -1,9 +1,9 @@
 <h1 style="text-align: center">Bem vindo ao meu perfil</h1> 
 
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcu0&layout=pie&theme=dracula" width="350" align="center"></a>
 <p>Sou um programador back-end buscando aprender novas linguagens<br> 
 e novos frameworks para aprimorar cada vez mais meus conhecimen-<br>
 tos.</p>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcu0&layout=pie&theme=dracula" width="350" align="center"></a>
 
 ## Linguagens que utilizo
 <div style="display: inline-block; margin: auto">
