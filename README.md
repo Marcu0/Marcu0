@@ -4,7 +4,7 @@
 
 <div style="display: table">
   
-![Marcus' GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcu0&layout=donut-vertical&theme=dracula)
+![Marcus' GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcu0&layout=pie&theme=dracula)
 ![GitHub Streak](https://streak-stats.demolab.com?user=Marcu0&theme=dracula&locale=pt_BR&date_format=j%20M%5B%20Y%5D&card_width=450) 
 </div>
 
