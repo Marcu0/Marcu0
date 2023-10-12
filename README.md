@@ -3,7 +3,8 @@
 <p>Sou um programador back-end buscando aprender novas linguagens<br> 
 e novos frameworks para aprimorar cada vez mais meus conhecimen-<br>
 tos.</p>
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcu0&layout=pie&theme=dracula" width="350" align="center"></a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcu0&layout=compact&theme=dracula" width="200" align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula" width="260" align="center">
 
 ## Linguagens que utilizo
 <div style="display: inline-block; margin: auto">
