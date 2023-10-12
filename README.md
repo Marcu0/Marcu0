@@ -4,8 +4,8 @@
 e novos frameworks para aprimorar cada vez mais meus conhecimen-<br>
 tos.</p>
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcu0&layout=compact&theme=dracula" width="200" align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula" width="260" align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcu0&layout=compact&theme=dracula" width="300" align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula" width="360" align="center">
 </div>
 
 ## Linguagens que utilizo
