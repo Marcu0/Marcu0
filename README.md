@@ -2,7 +2,7 @@
 
 
 
-<div style="display: table; content: ''; clear: both ">
+<div style="display: table">
   
 
   
