@@ -1,6 +1,6 @@
 <h1 align="center">Bem vindo ao meu perfil</h1> 
 
-<p>Sou um programador back-end buscando aprender novas linguagens<br> 
+<p align="center">Sou um programador back-end buscando aprender novas linguagens<br> 
 e novos frameworks para aprimorar cada vez mais meus conhecimen-<br>
 tos.</p>
 <div>
