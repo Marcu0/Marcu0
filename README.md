@@ -7,7 +7,7 @@ e novos frameworks para aprimorar cada vez mais meus projetos futuros.</p>
   <img alt="Marcus-Readme-Streak" height="160em" src ="https://github-readme-streak-stats.herokuapp.com?user=Marcu0&&locale=pt_BR&theme=dracula&hide_border=true&background=FFFFFF00">
 </div>
 </div>
- <div align="center">
+ <div align="center" href="google.com">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcu0&show_icons=true&locale=pt-br&theme=dracula&include_all_commits=true&count_private=true" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcu0&locale=pt-br&layout=compact&langs_count=7&theme=dracula"/>
 </div>
