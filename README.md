@@ -1,7 +1,7 @@
 <h1 align="center">Bem vindo ao meu perfil</h1> 
 
-<p align="center">Sou um programador back-end buscando aprender novas linguagens<br> 
-e novos frameworks para aprimorar cada vez mais meus conhecimentos.</p>
+<p align="center">Um programador back-end aprendendo novas linguagens<br> 
+e novos frameworks para aprimorar cada vez mais meus projetos futuros.</p>
 <div>
   <div align="center">
   <img alt="Marcus-Readme-Streak" height="160em" src ="https://github-readme-streak-stats.herokuapp.com?user=Marcu0&&locale=pt_BR&theme=dracula&hide_border=true&background=FFFFFF00">
